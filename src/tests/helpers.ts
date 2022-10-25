@@ -225,8 +225,8 @@ const ethereumDefaultProviders = {
   },
   [NamingServiceName.ENS]: {
     [ProviderProtocol.http]:
-      'https://mainnet.infura.io/v3/d423cf2499584d7fbe171e33b42cfbee',
+      'https://eth-goerli.g.alchemy.com/v2/J-ff_OlmWzw41ocqwpkRccHdfqSZML4q',
     [ProviderProtocol.wss]:
-      'wss://mainnet.infura.io/ws/v3/d423cf2499584d7fbe171e33b42cfbee',
+      'wss://eth-goerli.g.alchemy.com/v2/J-ff_OlmWzw41ocqwpkRccHdfqSZML4q',
   },
 };
