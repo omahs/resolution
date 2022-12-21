@@ -1,3 +1,7 @@
+## 8.3.4
+
+- Update uns config dependency
+
 ## 8.3.2
 
 - Fixed reverse function padding issue
